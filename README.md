@@ -29,41 +29,7 @@ Overall, the Movie Search App demonstrates my ability to build a scalable, inter
 
 *OUTPUT*:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1868" height="907" alt="Image" src="https://github.com/user-attachments/assets/c0fad6b6-dcea-4670-bed4-42e6f1cf8e19" />
 
 
 
